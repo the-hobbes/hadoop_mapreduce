@@ -1,0 +1,20 @@
+2012-01-01	09:00	Houston Baby	Books	309.16	Visa
+2012-01-01	09:00	Las Vegas	Books	93.39	Visa
+2012-01-01	09:00	Virginia Beach	Children's Clothing	376.11	Amex
+2012-01-01	09:00	Virginia Beach	Children's Clothing	376.11	Amex
+2012-01-01	09:01	Riverside	Consumer Electronics	252.88	Cash
+2012-01-01	09:01	Tulsa	Baby	205.06	Visa
+2012-01-01	09:01	Fort Wayne	Men's Clothing	370.55	Amex
+2012-01-01	09:01	San Bernardino	Consumer Electronics	170.2	Cash
+2012-01-01	09:02	Chandler	Books	344.09	Discover
+2012-01-01	09:02	Chandler	Books	344.09	Discover
+2012-01-01	09:02	Saint Paul	Crafts	33.13	AmexAmex
+2012-01-01	09:02	Riverside	Toys	2	Cash
+2012-01-01	09:03	Anchorage	DVDs	390.2	Visa
+2012-01-01	09:03	Cincinnati	DVDs	299.55	Visa
+2012-01-01	09:03	Milwaukee	Men's Clothing	418.91	Discover
+2012-01-01	09:03	Jacksonville	Computers	359.65	MasterCard
+2012-01-01	09:04	Phoenix	Sporting Goods	371.21	Visa
+2012-01-01	09:04	Anchorage	Health and Beauty	368.42	MasterCard
+2012-01-01	09:04	Norfolk	Consumer Electronics	480.24	Cash
+2012-01-01	09:04	San Antonio	CDs	125.35	Amex
