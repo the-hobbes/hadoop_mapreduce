@@ -10,12 +10,21 @@ To run full hadoop pipeline on vm (after copying input into hdfs):
 
 hs lesson_3/mapper_sales_per_category.py lesson_3/reducer_sales_per_category.py my_input/ output_dir
 
-(note that the input must already have been put into the my_input dir in hdfs)
+Note that the input must already have been put into the my_input dir in hdfs with:
+	hadoop fs -put [filename]
 
 Answers:
 
-part 1, toys = 57463477.11, consumer electronics = 57452374.13
+Part 1:
+	question 1, toys = 57463477.11, consumer electronics = 57452374.13
 
-part 2, reno = 499.99, toledo = 499.98, chandler = 499.98
+	question 2, reno = 499.99, toledo = 499.98, chandler = 499.98
 
-part 3, number of sales = 4138476, total value of sales = 1034457953.26
+	question 3, number of sales = 4138476, total value of sales = 1034457953.26
+
+Part 2:
+	question 1, 2456
+
+	question 2, 6
+
+	question 3, 117352
