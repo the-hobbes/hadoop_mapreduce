@@ -11,7 +11,10 @@ To run full hadoop pipeline on vm (after copying input into hdfs):
 hs lesson_3/mapper_sales_per_category.py lesson_3/reducer_sales_per_category.py my_input/ output_dir
 
 Note that the input must already have been put into the my_input dir in hdfs with:
-	hadoop fs -put [filename]
+	hadoop fs -put [filename] [input_dir]
+
+View the results with:
+	hadoop fs -cat output_dir/part-00000
 
 Answers:
 
@@ -28,3 +31,10 @@ Part 2:
 	question 2, 6
 
 	question 3, 117352
+
+Inverted Index question:
+	fantastic was used 346 times
+	the nodes fantastically appeared in were 17583, 1007765, 1025821, 7004477, 9006895
+
+Statistics (mean) question:
+	249.946443251
